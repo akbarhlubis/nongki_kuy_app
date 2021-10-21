@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## references
 https://belajarflutter.com/flutter-ui-tutorial-membuat-food-apps-ui-sederhana/
+https://www.kodingindonesia.com/tutorial-flutter-bahasa-indonesia/
