@@ -1,6 +1,8 @@
 # Nongki Kuy App
 
-A new Flutter project.
+A new Flutter project about app with function to lookout a hangout place with minimal effort using app.
+
+
 
 ## Getting Started
 
@@ -15,6 +17,15 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## references
-https://belajarflutter.com/flutter-ui-tutorial-membuat-food-apps-ui-sederhana/
-https://www.kodingindonesia.com/tutorial-flutter-bahasa-indonesia/
+## Supported Platform
+- Android (Progress) 🏃‍♀️
+- Web (not started yet) 🙅‍♂️
+- IOS (not started yet) 🙅‍♂️
+## Learning Resource
+- https://www.raywenderlich.com/books/flutter-apprentice/v1.0.ea2/chapters/ii-book-source-code-forums
+- https://belajarflutter.com/flutter-ui-tutorial-membuat-food-apps-ui-sederhana/
+- https://www.kodingindonesia.com/tutorial-flutter-bahasa-indonesia/
+https://github.com/raywenderlich/flta-materials
+
+## Animation
+we can add animation to flutter app with Rive(or flare in the past) https://rive.app/
